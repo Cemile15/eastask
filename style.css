@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+.app{
+    border: none;
+    background-color: #10C98F;
+    color: white;
+    padding: 10px 14px;
+}
+.navbar-nav{
+    align-items: center;
+}
+.navbar-nav li a{
+    color: white;
+}
+#banner{
+    min-height: 100vh;
+    background-image:linear-gradient(rgba(16,201,143,0.4),rgba(16,201,143,0.4)) ,url(https://preview.colorlib.com/theme/easylo/assets/img/hero/h1_hero1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-block: 200px;
+}
+.heading{
+    font-size: 70px;
+    color: white;
+}
+.sub-heading{
+    color: white;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.table{
+    width: 350px;
+    height: 500px;
+    background-color: white;
+    
+}
