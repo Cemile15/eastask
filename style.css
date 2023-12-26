@@ -261,3 +261,138 @@ gap: 10px;
     background: none;
     font-weight: 600;
 }
+#banner4{
+    width: 100%;
+    height: 90vh;
+     /* background-color: hotpink;  */
+}
+.sec3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+/* .basliq2{
+    width: 500px;
+    height: 100px;
+    background-color: yellow;
+} */
+.cart4{
+    width: 100%;
+    /* height: 60vh; */
+    /* background-color: aquamarine; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 20px;
+ }
+ .cart41{
+    width: 300px;
+    /* height: 40vh;
+    background-color: chartreuse; */
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+ }
+ .cart411{
+    width: 260px;
+    /* height: 35vh; */
+    /* background-color: darkgreen; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ /* .fff{
+    width: 260px;
+    height: 30vh;
+    background-color: darkred;
+ } */
+ .cart41 :hover a h5{
+    color:#10C98F;
+}
+.text22{
+   
+        margin-top: 15px;
+        font-size: 20px;
+        color: #4C5753;
+        font-weight: 500;
+        text-align: center;
+}
+h5{
+    font-size: 24px;
+    font-weight: 700;
+    color: #0F4332;
+    text-align: center;
+}
+h6{
+    font-size: 45px;
+    font-weight: 700;
+    color: #0F4332;
+}
+#banner5{
+    width: 100%;
+     /* height: 120vh;
+      background-color: hotpink;   */
+}
+.sect2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.basliq4{
+    width: 400px;
+    height: 100px;
+    /* background-color: darksalmon; */
+}
+.sect3{
+    width: 100%;
+     height: 100vh; 
+    /* background-color: cornflowerblue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 20px;
+
+}
+.sect4{
+    width: 360px;
+    height: 80vh;
+    /* background-color: lawngreen; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.picture4{
+    width: 290px;
+    height: 30vh;
+    /* background-color: mediumseagreen; */
+}
+.info4{
+    width: 290px;
+    /* height: 50vh; */
+    /* background-color: indianred; */
+}
+.date{
+    color: #A4ACA9;
+    margin-bottom: 14px;
+    display: block;
+}
+.sect4 :hover a h5{
+    color:#10C98F;
+}
+.text6{
+    color: #4C5753;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 24px;
+}
+
+
